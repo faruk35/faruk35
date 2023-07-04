@@ -1,31 +1,31 @@
-<h1 align="center">Hi 👋, I'm Md Faruk Miah</h1>
-<h3 align="center">A passionate mern stack developer</h3>
+### Hi there 👋, I am Md Faruk Miah
+#### Web Developer
+![Web Developer](https://media.licdn.com/dms/image/D5616AQE_ehNY4O90Cw/profile-displaybackgroundimage-shrink_350_1400/0/1665841781077?e=1694044800&v=beta&t=LcvPREzhx5Rwnk4cVvotDutCicz90uxWIVgdQu05ao8)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faruk35&label=Profile%20views&color=0e75b6&style=flat" alt="faruk35" /> </p>
+I make every effort to become a web developer. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faruk35" alt="faruk35" /></a> </p>
+Skills:  JS / HTML / CSS/BOOTSTRAP/FIGMA
 
-- 🔭 I’m currently working on [web development](https://faruk35.github.io/Portfolio/)
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning javascript and python 
+- 📫 How to reach me: farukislamfarabi35@gmail.com 
+- ⚡ Fun fact: I think I am funny.  
 
-- 🌱 I’m currently learning **Javascript, python**
 
-- 👨‍💻 All of my projects are available at [https://faruk35.github.io/Portfolio/](https://faruk35.github.io/Portfolio/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faruk35)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/farukislamfarabi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]( https://faruk35.github.io/Portfolio/)  
 
-- 📝 I regularly write articles on [englishshekha.blogspot.com](englishshekha.blogspot.com)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 💬 Ask me about **react**
+[![trophy](https://github-profile-trophy.vercel.app/?username=faruk35)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📫 How to reach me **farukislamfarabi35@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faruk35)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⚡ Fun fact **I am funny at fun**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faruk35&show_icons=true&count_private=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faruk35)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+![GitHub metrics](https://metrics.lecoq.io/faruk35)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk35&show_icons=true&locale=en&layout=compact" alt="faruk35" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=faruk35)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk35&show_icons=true&locale=en" alt="faruk35" /></p>
+![Profile views](https://gpvc.arturio.dev/faruk35)  
